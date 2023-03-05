@@ -1,4 +1,7 @@
 # Do zero ao meu MVP
+
+![Logo](logo.png)
+
 Um guia para o desenvolvimento de um produto de forma independente.
 
 Esse guia é para quem quer desenvolver um produto digital, mas não sabe por onde começar.
